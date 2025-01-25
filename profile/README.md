@@ -10,6 +10,10 @@ We’ve developed **ZKPU**, a zero-knowledge proof accelerator that redefines bl
 - **Unmatched Performance:** Drastically reduces proof generation times and power consumption.  
 - **Open-Source Collaboration:** Built on UC Berkeley’s Chipyard project with a configurable RISC-V CPU for adaptability to evolving protocols.  
 
+## What’s Next  
+At OpenProof, we believe in the power of collaboration and transparency. Our commitment to open-source innovation doesn’t stop with ZKPU.  
+Stay tuned—**more open-source projects are coming** to further empower the blockchain ecosystem and advance decentralization.  
+
 ## Learn More  
 - 🌐 Visit our **[Documentation](https://docs.open-proof.com/)** for a deep dive into ZKPU’s architecture and use cases.  
 - 🐦 Follow us on **[Twitter](https://x.com/OpenProof_ZKP)** for updates and announcements.  
